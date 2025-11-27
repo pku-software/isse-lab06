@@ -4,7 +4,7 @@
 
 ### 创建仓库
 
-1. 从提供的[模板仓库]()开始，点击仓库右上角的 `Use this template`
+1. 从提供的[模板仓库](https://github.com/pku-software/isse-lab06)开始，点击仓库右上角的 `Use this template`
 2. 基于模板创建自己的仓库，设置为 **私有仓库(private)**，这在后续步骤中具有重要作用
 
 ### 本地环境设置与测试
